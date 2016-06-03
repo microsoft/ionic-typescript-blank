@@ -1,10 +1,4 @@
 {
   "name": "ionic-ts-blank",
-  "app_id": "",
-  "gulpDependantTasks" : [
-    "tsc", "sass"
-  ],  
-   "gulpStartupTasks": [        
-    "watch"
-  ]
+  "app_id": ""
 }
