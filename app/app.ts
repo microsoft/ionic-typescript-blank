@@ -16,6 +16,7 @@ angular.module('starter', ['ionic'])
       cordova.plugins.Keyboard.disableScroll(true);
     }
     if (window.StatusBar) {
+      console.log("asdf");
       // org.apache.cordova.statusbar required
       window.StatusBar.styleLightContent();
     }
