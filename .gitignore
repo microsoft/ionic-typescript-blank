@@ -9,6 +9,8 @@ plugins/
 .vs/
 typings/
 www/lib/
+www/js/
+www/css/
 
 bld/
 bin/
